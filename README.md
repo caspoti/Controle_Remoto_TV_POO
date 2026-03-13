@@ -26,5 +26,5 @@
 
 
 
-Observação: Em alguns sistemas as cores do biblioteca Rich\_ pode não aparecer, ative a opção 'Emulate terminal in output console'.
+Observação: Em alguns sistemas as cores do biblioteca Rich\_ podem não aparecer, ative a opção 'Emulate terminal in output console'.
 
