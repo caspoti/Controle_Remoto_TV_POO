@@ -21,6 +21,7 @@
 * #### Ligar/Desligar TV: '@'
 * #### Mudar de canal: '<'  '>'
 * #### Mudar volume: '-' '+'
+* #### Encerrar programa: '0'
 
 
 
